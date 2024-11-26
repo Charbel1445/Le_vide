@@ -12,7 +12,7 @@ const doNotDelete = "☘🧫 𝐌𝐀𝐃𝐀𝐑𝐀 𝐔𝐂𝐇𝐈𝐇𝐀";
 
 module.exports = {
   config: {
-    name: "help",
+    name: "help1",
     version: "1.17",
     author: "Aesther",
     countDown: 5,
