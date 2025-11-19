@@ -44,15 +44,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "shibaiotsutsuki83@gmail.com",
-			"clientId": "682550325524-0prdv6png8dhhm24h5cv5ed9v1be6q7g.apps.googleusercontent.com",
-			"clientSecret": "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",
-			"refreshToken": "1//04SK-IqD5v8j9CgYIARAAGAQSNwF-L9IrY5-g6WersrwW8KsM4-VILpsaEUpllezTyKI_ZveXtGHcjN5slGlsNZfF8wDmtAAAWqQ",
+			"email": "sahulrimin@gmail.com",
+			"clientId": "24605262819-7no89dr93lchm0nsnffte6k1girvf254.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04SK-IqD5v8j9CgYIARAAGAQSNwF-L9IrY5-g6W",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
 			"siteKey": "6LfoXPQpAAAAAOk5oB3gvlMzE1bvyertl_rKpMkx",
-			"secretKey": "6LfoXPQpAAAAAFRP1jdHQB_ZVcU78n3A3-n6da59"
+			"secretKey": "6LflC2IpAAAAAM4JOsRl4ZdKZ0ihowTLDfvBe_W4"
 		}
 	},
 	"dashBoard": {
